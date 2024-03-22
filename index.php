@@ -6,7 +6,7 @@
     <title>Task Listing App</title>
 </head>
 <body>
-    <h1>Task Listing App</h1>
+    <h1>Webinar Listing App</h1>
 
     <form action="index.php" method="POST">
         <input type="text" name="task" placeholder="Enter task">
