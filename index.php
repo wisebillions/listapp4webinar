@@ -6,7 +6,7 @@
     <title>Task Listing App</title>
 </head>
 <body>
-    <h1>Digitank Inventory</h1>
+    <h1>Digitank Pop List</h1>
 
     <form action="index.php" method="POST">
         <input type="text" name="task" placeholder="Enter task">
